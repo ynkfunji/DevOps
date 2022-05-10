@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # DevOps
 personal learning from udemy
+=======
+this is my new repo
+>>>>>>> master
 =======
 This is the file from new repo
 added a new file
