@@ -1,2 +1,6 @@
 this is another test
+<<<<<<< Updated upstream
 this sis the urgent change
+=======
+:this is a stach lecture note
+>>>>>>> Stashed changes
